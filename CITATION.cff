@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: 'jesse-sealand/emissary: Emissary'
+message: 'If you use this software, please cite it as below.'
+authors:
+  - name: "Jesse C. Sealand"
+abstract: "Emissary is a user-friendly way to interact with command line interfaces."
+license: MIT
+license-url: "https://github.com/jesse-sealand/emissary/blob/main/LICENSE"
+repository-code: "https://github.com/jesse-sealand/emissary"
+keywords:
+  - python
+  - cli
+type: software
+url: "https://github.com/jesse-sealand/emissary"
